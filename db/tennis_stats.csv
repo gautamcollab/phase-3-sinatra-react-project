@@ -1,0 +1,28 @@
+Character,Topspin,Slicing,Flat,Approach,Baseline,DoubleTapFlat,DoubleTapSlice,Max_Speed,Acceleration,Pivot,Horizontal,Knockback_type,Lunge_recovery,Knockback_reduction
+Mario,9,6,8,7,9,6,6,5,8,8,6,Push,6,6
+Luigi,5,8,5,6,5,9,9,5,5,2,7,Spin,5,4
+Wario,9,6,9,6,8,8,6,6,1,4,8,Push,4,7
+Waluigi,3,5,4,1,1,3,6,1,2,2,10,Spin,5,7
+Peach,4,5,4,10,9,9,9,5,6,6,5,Spin,9,5
+Daisy,7,7,8,8,9,7,7,4,8,6,6,Spin,8,5
+Rosalina,8,7,4,2,3,1,1,5,4,6,4,Push,5,6
+Toad,5,6,7,8,6,7,9,10,10,9,3,Push,9,3
+Toadette,3,4,2,9,8,8,9,7,6,6,3,Spin,10,2
+Bowser,10,7,7,3,3,7,4,4,3,4,9,Push,6,8
+Bowser Jr.,6,5,6,3,5,5,4,3,2,6,9,Spin,3,5
+Boo,1,4,4,3,3,7,9,5,8,6,4,Spin,6,2
+Yoshi,8,5,5,8,6,8,7,9,8,6,4,Push,4,4
+DK,8,8,8,2,2,4,7,4,10,10,9,Push,7,6
+Spike,8,7,8,7,9,7,5,5,4,3,5,Push,5,6
+Chain Chomp,9,7,9,7,7,8,6,3,3,1,8,Push,4,10
+Koopa,7,4,5,8,7,9,8,10,7,2,3,Push,2,3
+Blooper,3,1,1,9,7,3,6,3,4,2,3,Spin,5,3
+Diddy,5,8,7,5,5,6,8,7,10,10,5,Spin,6,5
+Petey Piranha,8,7,10,5,5,8,6,4,6,2,8,Spin,1,7
+Shy Guy,6,4,6,9,10,3,3,4,4,4,3,Push,5,2
+Paratroopa,5,4,4,8,9,5,3,4,6,4,2,Push,8,3
+Luma,8,6,8,10,9,4,4,5,7,7,3,Spin,3,2
+Birdo,5,5,7,5,5,8,7,7,7,9,4,Push,3,4
+Boom boom,7,5,6,7,5,7,5,7,1,2,10,Push,4,7
+Pauline,3,4,5,7,5,7,5,9,10,8,5,Push,4,1
+Kamek,1,6,4,1,1,1,6,5,4,7,4,Spin,2,2

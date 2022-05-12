@@ -10,27 +10,30 @@
 #
 # It's strongly recommended that you check this file into your version control system.
 
-ActiveRecord::Schema.define(version: 2022_05_10_181915) do
+ActiveRecord::Schema.define(version: 2022_05_11_200930) do
 
   create_table "characters", force: :cascade do |t|
+    t.string "character"
     t.integer "topspin"
-    t.integer "slice_score"
+    t.integer "slicing"
     t.integer "flat"
     t.integer "approach"
     t.integer "baseline"
-    t.integer "double_tap_flat"
-    t.integer "double_tap_slice"
+    t.integer "doubletapflat"
+    t.integer "doubletapslice"
     t.integer "max_speed"
     t.integer "acceleration"
     t.integer "pivot"
-    t.integer "charge_speed"
     t.integer "horizontal"
-    t.integer "curve_slice"
-    t.integer "knockback"
-    t.integer "lunge_recovery"
-    t.integer "weight"
     t.string "knockback_type"
-    t.string "img"
+    t.integer "lunge_recovery"
+    t.integer "knockback_reduction"
+  end
+
+  create_table "games", force: :cascade do |t|
+    t.string "result"
+    t.datetime "created_at", precision: 6, null: false
+    t.datetime "updated_at", precision: 6, null: false
   end
 
 end
