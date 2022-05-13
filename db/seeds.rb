@@ -28,6 +28,70 @@ Character.create(
 
 end 
 
+Game.create(
+    result: "win"
+)
+Game.create(
+    result: "win"
+)
+Game.create(
+    result: "win"
+)
+Game.create(
+    result: "win"
+)
+Game.create(
+    result: "win"
+)
+Game.create(
+    result: "win"
+)
+Game.create(
+    result: "win"
+)
+Game.create(
+    result: "win"
+)
+Game.create(
+    result: "win"
+)
+Game.create(
+    result: "win"
+)
+Game.create(
+    result: "win"
+)
+Game.create(
+    result: "win"
+)
+Game.create(
+    result: "loss"
+)
+Game.create(
+    result: "loss"
+)
+Game.create(
+    result: "loss"
+)
+Game.create(
+    result: "loss"
+)
+Game.create(
+    result: "loss"
+)
+Game.create(
+    result: "loss"
+)
+Game.create(
+    result: "loss"
+)
+Game.create(
+    result: "loss"
+)
+Game.create(
+    result: "loss"
+)
+
 
 
 puts "✅ Done seeding!"

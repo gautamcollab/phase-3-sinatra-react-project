@@ -2,7 +2,7 @@ class CreateGames < ActiveRecord::Migration[6.1]
   def change
     create_table :games do|t|
       t.string :result
-      t.timestamps 
+      t.integer :character_id
     end 
   end
 end
